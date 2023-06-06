@@ -1,2 +1,2 @@
-from Loader import tawasulxfaraz
+from Loader_enc import tawasulxfaraz
 tawasulxfaraz()
